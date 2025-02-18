@@ -4,12 +4,12 @@ A RESTful API for a Twitter-like platform built using Node.js, Express.js, and S
 
 **Features**
 
-User Authentication: Register and log in with secure password hashing using bcrypt and JWT-based authentication.
+*User Authentication:* Register and log in with secure password hashing using bcrypt and JWT-based authentication.
 
-Tweet Management: Post, view, and delete tweets.
+*Tweet Management:* Post, view, and delete tweets.
 
-User Interactions: Like and reply to tweets.
+*User Interactions:* Like and reply to tweets.
 
-Follow System: Follow and view followers.
+*Follow System:* Follow and view followers.
 
-Feed System: View tweets from followed users.
+*Feed System:* View tweets from followed users.
