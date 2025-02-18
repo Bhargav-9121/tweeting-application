@@ -16,13 +16,13 @@ A RESTful API for a Twitter-like platform built using Node.js, Express.js, and S
 
 ## API Endpoints
 
-**Authentication**
+### Authentication
 
 Register User: POST /register
 
 Login User: POST /login
 
-**User Actions**
+### User Actions
 
 Get User Feed: GET /user/feed
 
@@ -30,7 +30,7 @@ Get Following List: GET /user/following
 
 Get Followers List: GET /user/followers
 
-**Tweet Actions**
+### Tweet Actions
 
 Post Tweet: POST /tweets
 
