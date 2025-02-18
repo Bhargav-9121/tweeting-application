@@ -1,4 +1,4 @@
-****Twitter Clone API****
+# Twitter Clone API
 
 A RESTful API for a Twitter-like platform built using Node.js, Express.js, and SQL. This API allows users to register, log in, post tweets, follow other users, view their feeds, and interact with tweets through likes and replies.
 
